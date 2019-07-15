@@ -1,0 +1,36 @@
+.container{
+    text-align: center; 
+}
+
+.rules{
+    text-align: center; 
+    background-color: blueviolet; 
+}
+
+.target-score{
+    text-align: center; 
+    font-size: 40px; 
+    padding:50px;
+}
+.current-score{
+    text-align: center; 
+    font-size: 40px; 
+    padding:15px;
+     
+}
+#crystals{
+    text-align: center;
+    padding:15px;
+}
+
+.Losses{
+    text-align: Left; 
+    font-size: 40px; 
+    padding:15px;
+}
+
+.Wins{
+    text-align: Left; 
+    font-size: 40px; 
+    padding:15px;
+}
